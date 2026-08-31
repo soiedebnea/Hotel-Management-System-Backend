@@ -1,0 +1,16 @@
+{
+  "name": "hotel-management-backend",
+  "version": "1.0.0",
+  "description": "Backend API for the Hotel Management System (rooms, guests, bookings, check-in/check-out)",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node utils/seed.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

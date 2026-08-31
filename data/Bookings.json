@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "roomId": 3,
+    "guestId": 1,
+    "checkInDate": "2026-08-27",
+    "checkOutDate": "2026-08-30",
+    "status": "checked-in",
+    "notes": "Late arrival, ~10pm",
+    "actualCheckIn": "2026-08-27T11:34:57.505Z",
+    "actualCheckOut": null,
+    "createdAt": "2026-08-28T11:34:57.505Z"
+  },
+  {
+    "id": 2,
+    "roomId": 2,
+    "guestId": 2,
+    "checkInDate": "2026-08-29",
+    "checkOutDate": "2026-09-01",
+    "status": "booked",
+    "notes": "",
+    "actualCheckIn": null,
+    "actualCheckOut": null,
+    "createdAt": "2026-08-28T11:34:57.505Z"
+  }
+]

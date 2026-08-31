@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Rahman",
+    "email": "ayesha@example.com",
+    "phone": "+880 1711-000111",
+    "idType": "Passport",
+    "idNumber": "P1234567",
+    "address": "Dhaka, BD",
+    "createdAt": "2026-08-28T11:34:57.505Z"
+  },
+  {
+    "id": 2,
+    "name": "James Carter",
+    "email": "jcarter@example.com",
+    "phone": "+1 555-234-1122",
+    "idType": "Driver's License",
+    "idNumber": "DL998877",
+    "address": "Austin, TX",
+    "createdAt": "2026-08-28T11:34:57.505Z"
+  }
+]
